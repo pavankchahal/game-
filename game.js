@@ -2,7 +2,7 @@
 width = "450"
 height = "450" > < /canvas>
 
-<!-- Jquery -->
+
 < script src = ""
 type = "text/javascript" > < /script>
 $(document).ready(function() {
