@@ -3,7 +3,7 @@ width = "450"
 height = "450" > < /canvas>
 
 <!-- Jquery -->
-< script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"
+< script src = ""
 type = "text/javascript" > < /script>
 $(document).ready(function() {
 
