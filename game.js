@@ -13,7 +13,7 @@ $(document).ready(function() {
 
 
       var snake_array;
-
+}
       function init() {
         d = "right";
         create_snake();
