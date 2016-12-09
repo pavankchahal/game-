@@ -2,9 +2,6 @@
 width = "450"
 height = "450" > < /canvas>
 
-
-< script src = ""
-type = "text/javascript" > < /script>
 $(document).ready(function() {
 
       var canvas = $("#canvas")[0];
