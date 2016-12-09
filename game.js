@@ -1,4 +1,19 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Snake | Rembound</title>
+<script type="text/javascript">
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    var keyCode = evt.keyCode;
+    if (keyCode >= 37 && keyCode <= 40 || keyCode == 32) {
+        return false;
+    }
+};
+</script>
+<script>
+ 
 window.onload = function() {
   var m = document.getElementById("viewport");
   var K = m.getContext("2d");
@@ -445,3 +460,19 @@ window.onload = function() {
   }
   H()
 };
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Snake | Rembound</title>
+<script type="text/javascript">
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    var keyCode = evt.keyCode;
+    if (keyCode >= 37 && keyCode <= 40 || keyCode == 32) {
+        return false;
+    }
+};
+</script>
+</body>
+</html> 
