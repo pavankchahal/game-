@@ -1,7 +1,3 @@
-< canvas id = "canvas"
-width = "450"
-height = "450" > < /canvas>
-
 $(document).ready(function() {
 
       var canvas = $("#canvas")[0];
